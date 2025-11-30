@@ -23,6 +23,20 @@ FoodShare Connect is a full-stack platform that bridges the gap between food don
 </p>
 </div>
 
+**Instructions to access the Website:**
+1. For Donor Page:
+       Email: donor@gmail.com
+       Password: 12345
+2. For Recipient Page:
+       Email: org@gmail.com
+       Password: 12345
+3. For Admin Page:
+       Email: admin1@gmail.com
+       Password: 12345
+4. For Data Analyst Page:
+       Email: analyst@gmail.com
+       Password: 12345
+
 🚀 Key Features
 
 Role-Based Access Control: Distinct dashboards for Food Donors, Recipient Organizations, Admins, and Data Analysts.
