@@ -43,7 +43,7 @@ Role-Based Access Control: Distinct dashboards for Food Donors, Recipient Organi
 
 Real-Time Updates: Instant notifications and dashboard updates using Socket.IO when new listings or requests are made.
 
-Interactive Maps: Visualize donation locations on a map to find nearby food sources easily.
+Interactive Maps: Visualize donation locations on a map(Google Maps API - Places API etc) to find nearby food sources easily.
 
 Data Visualization: Analysts can view trends and platform usage statistics via interactive charts.
 
