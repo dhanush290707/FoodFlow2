@@ -4,7 +4,7 @@ import React, { createContext, useState, useContext, useEffect } from 'react';
 export const AuthContext = createContext(null);
 
 // Define the API URL here so it's available globally via context if needed
-export const API_URL = 'http://localhost:5000'; 
+export const API_URL = 'https://foodflow2.onrender.com/'; 
 
 export const AuthProvider = ({ children }) => {
     const [loggedInUser, setLoggedInUser] = useState(null);
